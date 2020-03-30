@@ -1,5 +1,6 @@
 # TypeScript React Project
 
-### How to generate project?
+### Steps to setup project
 
-`npx create-react-app ProjectName --template typescript`
+1. Create project: `npx create-react-app ProjectName --template typescript`
+2. Add Bootstrap: `yarn add react-bootstrap bootstrap`
